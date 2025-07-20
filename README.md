@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-👋 Hi, I'm Rabindra Kumar.<br>	
+👋 Hi, I'm Rabindra Kumar<br>	
 🔭 I’m interested in Data Science, Machine Learning, Artificial Intelligence, and Data Analysis.<br>
 🌱 I’m currently learning AI and Machine Learning algorithms for building smart applications.<br>
 💼 I’ve completed various projects such as Email spam classifier, Cricket score predictor & so many.<br>
@@ -13,14 +13,14 @@
 
 ## I have Deep Understanding on👋
 
-Machine Learning.<br>
-Deep Learning.<br>
-Natural Language Processing.<br>
-OpenCV.<br>
-Python.<br>
-TensorFlow.<br>
-Keras.<br>
-PyTorch.<br>
+Machine Learning<br>
+Deep Learning<br>
+Natural Language Processing<br>
+OpenCV<br>
+Python<br>
+TensorFlow<br>
+Keras<br>
+PyTorch<br>
 
   
 
