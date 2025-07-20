@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-
-👋 Hi, I'm Rabindra Kumar
+💫 About Me:
+👋 Hi, I'm Rabindra Kumar 	
 🔭 I’m interested in Data Science, Machine Learning, Artificial Intelligence, and Data Analysis.
 🌱 I’m currently learning AI and Machine Learning algorithms for building smart applications.
 💼 I’ve completed various projects such as Email spam classifier, Cricket score predictor & so many.
