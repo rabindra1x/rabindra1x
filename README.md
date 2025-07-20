@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-💫 About Me:
+## 💫 About Me:
 👋 Hi, I'm Rabindra Kumar 	
 🔭 I’m interested in Data Science, Machine Learning, Artificial Intelligence, and Data Analysis.
 🌱 I’m currently learning AI and Machine Learning algorithms for building smart applications.
@@ -11,7 +11,7 @@
 📫 How to reach me: You can connect with me [LinkedIn](https://www.linkedin.com/in/rabindra-kumar-0b7231318/) or [Email](rabindrakumar80834@gmail.com)
 ⚡ Fun fact: I enjoy learning new AI technologies and exploring the world of generative AI models.
 
-I have Deep Understanding on👋
+## I have Deep Understanding on👋
 
 Machine Learning
 Deep Learning
