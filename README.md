@@ -14,7 +14,7 @@
 
 💬 Ask me about Python, Numpy, Pandas, Matplotlib, Seaborn, Streamlit, scikit-learn, and Machine Learning.
 
-📫 How to reach me: You can connect with me via LinkedIn-https://www.linkedin.com/in/rabindra-kumar-0b7231318/ or email- rabindrakumar80834@gmail.com
+📫 How to reach me: You can connect with me [LinkedIn](https://www.linkedin.com/in/rabindra-kumar-0b7231318/) or [Email](rabindrakumar80834@gmail.com)
 
 ⚡ Fun fact: I enjoy learning new AI technologies and exploring the world of generative AI models.
 
