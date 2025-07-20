@@ -1,38 +1,27 @@
 ## Hi there 👋
 
-💫 About Me:
+
 
 👋 Hi, I'm Rabindra Kumar
-
 🔭 I’m interested in Data Science, Machine Learning, Artificial Intelligence, and Data Analysis.
-
 🌱 I’m currently learning AI and Machine Learning algorithms for building smart applications.
-
 💼 I’ve completed various projects such as Email spam classifier, Cricket score predictor & so many.
-
 🤝 I’m looking to collaborate on Data Science and AI projects. Feel free to connect if you have interesting ideas or need help with data analysis or model building.
-
 💬 Ask me about Python, Numpy, Pandas, Matplotlib, Seaborn, Streamlit, scikit-learn, and Machine Learning.
-
 📫 How to reach me: You can connect with me [LinkedIn](https://www.linkedin.com/in/rabindra-kumar-0b7231318/) or [Email](rabindrakumar80834@gmail.com)
-
 ⚡ Fun fact: I enjoy learning new AI technologies and exploring the world of generative AI models.
 
 I have Deep Understanding on👋
 
 Machine Learning
-
 Deep Learning
-
 Natural Language Processing
-
 OpenCV
-
 Python
-
 TensorFlow
-
 Keras
+PyTorch 
+
   
 
 ## 🌐 Socials:
