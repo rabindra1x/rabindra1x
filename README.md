@@ -11,7 +11,8 @@
 </div>
 
 
-<img align="right" alt="AI Development" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="AI Development" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/> <br/>
+
 ## 💫 About Me:<br/>
 👋 Hi, I'm Rabindra Kumar<br>	
 🔭 I’m interested in Data Science, Machine Learning, Artificial Intelligence, and Data Analysis.<br>
