@@ -20,7 +20,8 @@
 💼 I’ve completed various projects such as Email spam classifier, Cricket score predictor & so many.<br>
 🤝 I’m looking to collaborate on Data Science and AI projects. Feel free to connect if you have interesting ideas or need help with data analysis or model building.<br>
 💬 Ask me about Python, Numpy, Pandas, Matplotlib, Seaborn, Streamlit, scikit-learn, and Machine Learning.<br>
-📫 How to reach me: You can connect with me<a href="https://www.linkedin.com/in/rabindra-kumar-0b7231318/">
+📫 How to reach me: You can connect with me 
+<a href="https://www.linkedin.com/in/rabindra-kumar-0b7231318/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
 </a>
 or [Email](rabindrakumar80834@gmail.com).<br>
