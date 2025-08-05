@@ -1,6 +1,17 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rabindra%20Kumar&fontSize=90&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Innovation%20Catalyst&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
+</div>
 
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+AI+Engineer+%26+Machine+Learning+Expert;🧠+Deep+Learning+%26+Neural+Networks+Specialist;🔬+Computer+Vision+%26+NLP+Researcher;🚀+RAG+%26+LLM+Solutions+Architect;💡+Automation+%26+Innovation+Enthusiast;🌟+Building+Tomorrow's+AI+Today!&font=Fira%20Code&center=true&width=800&height=100&duration=4000&pause=1000" alt="Typing SVG" />
+</div>
+
+
+<img align="right" alt="AI Development" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 ## 💫 About Me:
 👋 Hi, I'm Rabindra Kumar<br>	
 🔭 I’m interested in Data Science, Machine Learning, Artificial Intelligence, and Data Analysis.<br>
